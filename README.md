@@ -1,4 +1,4 @@
-# Incremental Object Detection Works List
+# Awesome Incremental Object Detection
 
 ## Survey
 
