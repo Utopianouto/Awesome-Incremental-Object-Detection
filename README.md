@@ -114,11 +114,10 @@
   * keywords:
 
 *  Continual learning strategy in one-stage object detection framework based on experience replay for autonomous driving vehicle
-
-  * source: Sensors 20
-  * paper: https://www.mdpi.com/1424-8220/20/23/6777
-  * code:
-  * keywords: YOLOv3, Replay
+	* source: Sensors 20
+ 	* paper: https://www.mdpi.com/1424-8220/20/23/6777
+ 	* code:
+  	* keywords: YOLOv3, Replay
 
 * Relationship Matters: Relation Guided Knowledge Transfer for Incremental Learning of Object Detectors
 
