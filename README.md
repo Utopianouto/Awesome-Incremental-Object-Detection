@@ -195,6 +195,12 @@
   * code: https://github.com/JosephKJ/OWOD
   * keywords: Faster R-CNN, Pseudo Label, Replay
 
+* Detecting Everything in the Open World: Towards Universal Object Detection
+	* source: CVPR 2023
+	* paper: https://arxiv.org/abs/2303.11749
+	* code: https://github.com/zhenyuw16/UniDetector
+	* keywords: 
+
 # Note
 
 This list is currently based on Continual Object Detection: A review of definitions, strategies, and challenges. It will be progressively updated with more up-to-date work.
