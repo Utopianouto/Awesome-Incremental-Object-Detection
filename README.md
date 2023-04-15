@@ -176,7 +176,7 @@
 	* code: 
 	* keywords:  YOLOv2, Pseudo Label
 ### 2017
-* Continual Object Detection: A review of definitions, strategies, and challenges
+* Incremental Learning of Object Detectors without Catastrophic Forgetting
 	* source: ICCV 2017
 	* paper: https://arxiv.org/abs/1708.06977
 	* code: https://github.com/kshmelkov/incremental_detectors
